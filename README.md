@@ -22,6 +22,7 @@
 4. 📦 Install dependencies
 
     ```bash
+    $ pip install poetry
     $ poetry install
     ```
 
