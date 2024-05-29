@@ -16,7 +16,7 @@
 3. ⬇️ Clone the repository
 
     ```bash
-    $ git clone https://github.com/ryo-ma/gpt-assistants-api-ui.git
+    $ git clone https://github.com/miami-bear/gpt-assistants-api-ui.git
     ```
 
 4. 📦 Install dependencies
